@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NabatApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#145A32</item>
+        <item name="colorPrimaryDark">#104928</item>
+        <item name="colorAccent">#0097A7</item>
+        <item name="android:statusBarColor">#104928</item>
+    </style>
+</resources>
